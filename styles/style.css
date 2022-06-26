@@ -1,0 +1,41 @@
+body {
+    font-family: Helvetica, sans-serif;
+}
+
+/* background image not working*/
+
+.intro {
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url("C:\Users\welch\Documents\Codecademy\dasmoto\media\images\pattern.jpeg");
+}
+
+#brushes {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: mediumspringgreen;
+
+}
+
+#frames {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: lightcoral;
+}
+
+#paint {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: skyblue;
+}
+
+.Blue-font {
+    font-weight: bold;
+    color: blue;
+
+}
