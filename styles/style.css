@@ -5,7 +5,7 @@ body {
 /* background image not working*/
 
 h1 {
-    background-image: url("C:\Users\welch\Documents\Codecademy\dasmoto\media\images\pattern.jpeg");
+    background-image: url("../media/images/pattern.jpeg");
     font-size: 100px;
     font-weight: bold;
     color: khaki;
